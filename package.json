@@ -39,7 +39,7 @@
     "react": "^16.9.0"
   },
   "peerDependencies": {
-    "gatsby": "^4.0.0-next",
+    "gatsby": "^4.0.0-next || ^5.0.0",
     "react": "^16.9.0 || ^17.0.0",
     "react-dom": "^16.9.0 || ^17.0.0"
   },
